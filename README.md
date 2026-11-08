@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lekeugo 👋
 
-<!--
-**DemelieuRochinel/DemelieuRochinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student (Software Engineering) at the University of Buea, Cameroon.
+I build full-stack .NET applications with clean architecture (SOLID, event-driven design).
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🏥 **MediTrak**: hospital management system (sole developer)
+- 🛒 **MarketPrice**: cross-platform price app (ASP.NET Core API + .NET MAUI)
+- 💊 **Pharmacy System**: sales & orders (WPF + Blazor Hybrid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+C# · .NET · ASP.NET Core · Blazor · .NET MAUI · WPF · SQL · Git
+
+## Currently
+Studying large codebases to start contributing to open source.
+
+## Contact
+[LinkedIn](your-link) · your@email.com
